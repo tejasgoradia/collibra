@@ -1,7 +1,11 @@
 # collibra
 This space contains collibra solution architecture 
 
-|---|---|
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 
 ### What is an Edge Server
 Edge is a cluster of Linux servers for accessing and processing data close to where it resides. It helps to connect to data sources and process information within your data landscape.
