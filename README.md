@@ -1,10 +1,10 @@
 # collibra
 This space contains collibra solution architecture 
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+|Component|Description|
+|---|---|
+|Edge Server|Edge enables Collibra Data Intelligence Cloud to safely connect to your data sources hosted in an on-premise or cloud environment. It processes the data source information on the Edge site and sends the process results to Collibra Data Intelligence Cloud|
+
 
 
 ### What is an Edge Server
